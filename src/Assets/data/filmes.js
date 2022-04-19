@@ -1,4 +1,4 @@
-// API, fiz uma simulação
+// API, fiz uma simulação.
 
 
 export const allfilmes = [
