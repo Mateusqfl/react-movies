@@ -1,3 +1,4 @@
+//Style do footer
 import styled from 'styled-components';
 
 export const FooterStilo = styled.footer `

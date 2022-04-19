@@ -1,3 +1,5 @@
+// Componente 'Footer' com todos seus imports(Style)
+
 import React from 'react'
 import { FooterStilo } from '../styled/FooterStyle'
 

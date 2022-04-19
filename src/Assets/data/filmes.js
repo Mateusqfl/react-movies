@@ -1,3 +1,6 @@
+// API, fiz uma simulação
+
+
 export const allfilmes = [
   {
       "id": "0",

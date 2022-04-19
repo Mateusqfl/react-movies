@@ -1,3 +1,5 @@
+// Componente 'Header' com todos seus imports(Style,IMG)
+
 import React from 'react'
 import { HeaderStilo, ImagemStilo } from '../styled/HeaderStyle'
 import img_banner from '../../Assets/Imagem/movie.PNG'
